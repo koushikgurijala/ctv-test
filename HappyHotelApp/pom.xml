@@ -2,17 +2,15 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.mockitotutorial</groupId>
+	<groupId>com.mockitodemo</groupId>
 	<artifactId>happyhotel</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Happy Hotel App</name>
-	<description>A project to learn mockito</description>
+	<description>A project for mockito</description>
 
 	<properties>
  		<maven.compiler.source>17</maven.compiler.source>
  		<maven.compiler.target>17</maven.compiler.target>
-		<sonar.organization>koushikgurijala</sonar.organization>
-  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	
 	<dependencies>
